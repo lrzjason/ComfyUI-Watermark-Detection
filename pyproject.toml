@@ -1,0 +1,14 @@
+[project]
+name = "watermark-detection"
+description = ""
+version = "1.0.1"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/lrzjason/ComfyUI-watermark-detection"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "lrzjason"
+DisplayName = "ComfyUI-watermark-detection"
+Icon = ""
