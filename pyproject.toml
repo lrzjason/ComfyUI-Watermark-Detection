@@ -1,6 +1,6 @@
 [project]
 name = "watermark-detection"
-description = ""
+description = "This custom node for ComfyUI provides watermark detection capabilities using a YOLO model trained by [a/fancyfeast](https://huggingface.co/fancyfeast), the creator of JoyCaption. The model is originally hosted at [a/Hugging Face Space](https://huggingface.co/spaces/fancyfeast/joycaption-watermark-detection)."
 version = "1.0.1"
 license = {file = "LICENSE"}
 
